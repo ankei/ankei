@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankei&theme=nightowl&count_private=true)](https://github.com/ankei/github-readme-stats)
+
 ![ankei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankei&show_icons=true&theme=nightowl&count_private=true)
